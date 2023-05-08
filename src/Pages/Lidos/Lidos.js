@@ -1,4 +1,8 @@
 import styles from "./Lidos.css";
+import Menu from "../../Components/Menu/Menu";
+import Estante from "../../Components/Estante/Estante";
+import CardAvaliacao from "../../Components/CardAvaliacao/CardAvaliacao";
+import Header from "../../Components/Header/Header";
 function Lidos() {
     return (
         <section className={styles.Lidos}>
